@@ -1,0 +1,48 @@
+Last login: Thu Oct 13 20:13:50 on ttys000
+csoregh@Eliass-MBP ~ % nano tenth_line.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                  File: tenth_line.sh                   Modified  
+
+sed '10!d' file.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
